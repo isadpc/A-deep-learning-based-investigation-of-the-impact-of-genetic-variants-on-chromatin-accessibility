@@ -1,10 +1,10 @@
-## A-deep-learning-based-investigation-of-the-impact-of-genetic-variants-on-chromatin-accessibility
+# A deep learning based investigation of the impact of genetic variants on chromatin accessibility
 
 This repository contains the code I wrote for my homonimous project course. 
 
 The data and model that were used are not publicly available.
 
-# Project abstract: 
+## Project abstract: 
 
 Understanding the determinants of transcriptional regulatory elements and the mechanisms through which disease-associated genetic variants disrupt their activities remains an open
 challenge. Recent attempts at functionally annotating the noncoding genome employ complex models, such as deep convolutional neural networks (CNNs). Although these models can be incredibly accurate in their predictions, they are becoming increasingly notorious for their lack of interpretability. In trying to surpass their black-box
